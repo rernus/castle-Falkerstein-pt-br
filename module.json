@@ -2,6 +2,7 @@
   "id": "castle-falkerstein-pt-br",
   "title": "castle-Falkerstein-pt-br",
   "version": "1.0.0",
+  "version": "0.0.4",
   "compatibility": {
     "minimum": "11",
     "verified": "11"
@@ -31,13 +32,10 @@
       "path": "lang/pt-BR.json"
     }
   ],
-<<<<<<< HEAD
   "url": "https://github.com/brunocalado/crucible-ptbr",
   "manifest": "https://raw.githubusercontent.com/rernus/castle-Falkerstein-pt-br/refs/heads/main/module.json",
   "download": "https://github.com/rernus/castle-Falkerstein-pt-br/archive/refs/heads/main.zip"
-=======
   "url": "",
   "manifest": "",
   "download": ""
->>>>>>> e4fb0fee5b385dbe0d70e0b49e2327d5aed7a0eb
 }
