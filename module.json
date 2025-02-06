@@ -31,10 +31,7 @@
       "path": "lang/pt-BR.json"
     }
   ],
-  "url": "https://github.com/brunocalado/crucible-ptbr",
+  "url": "https://github.com/rernus/castle-Falkerstein-pt-br",
   "manifest": "https://raw.githubusercontent.com/rernus/castle-Falkerstein-pt-br/refs/heads/main/module.json",
   "download": "https://github.com/rernus/castle-Falkerstein-pt-br/archive/refs/heads/main.zip"
-  "url": "",
-  "manifest": "",
-  "download": ""
 }
