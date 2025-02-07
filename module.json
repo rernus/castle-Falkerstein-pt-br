@@ -1,6 +1,6 @@
 {
-  "id": "castle-Falkerstein",
-  "title": "castle-Falkerstein",
+  "id": "castle-falkerstein",
+  "title": "castle-falkerstein",
   "description": "",
   "version": "3.2.2",
   "authors": [
@@ -40,7 +40,7 @@
     ],
     "systems": [
       {
-        "id": "castle-Falkerstein"
+        "id": "castle-falkerstein"
       }
     ]
   }
