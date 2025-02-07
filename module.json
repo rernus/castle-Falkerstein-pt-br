@@ -10,8 +10,9 @@
     }
   ],
   "compatibility": {
-    "minimum": 12,
-    "verified": "12"
+    "minimum": 9,
+    "verified": "12",
+    "maximum": "12"
   },
   "esmodules": ["babele-register.js"],
   "url": "https://github.com/rernus/castle-Falkerstein-pt-br",
