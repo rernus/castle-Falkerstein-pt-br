@@ -1,5 +1,5 @@
 # Castle Falkerstein - Tradução para o Português (Brasil)
-Esse módulo aplica a tradução para o sistema Crucible.
+Esse módulo aplica a tradução para o sistema.
 
 # ATENÇÃO
 **Essa tradução está muito rudimentar. Não adianta refinar ela enquanto o sistema está em desenvolvimento.**
