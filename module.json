@@ -2,7 +2,7 @@
   "id": "castle-Falkerstein",
   "title": "castle-Falkerstein - Português (Brasil)",
   "description": "",
-  "version": "3.2.1",
+  "version": "3.2.2",
   "authors": [
     {
       "name": "Rernus",
@@ -10,8 +10,8 @@
     }
   ],
   "compatibility": {
-    "minimum": 11,
-    "verified": "11"
+    "minimum": 12,
+    "verified": "12"
   },
   "esmodules": ["babele-register.js"],
   "url": "https://github.com/rernus/castle-Falkerstein-pt-br",
