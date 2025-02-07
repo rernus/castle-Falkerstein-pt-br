@@ -1,37 +1,47 @@
 {
-  "id": "castle-falkerstein",
-  "title": "castle-Falkerstein-pt-br",
-  "version": "2.0.6",
-  "compatibility": {
-    "minimum": "11",
-    "verified": "11"
-  },
-  "relationships": {
-    "systems": [
-      {
-        "id": "castle-falkenstein",
-        "type": "system",
-        "compatibility": {}
-      }
-    ],
-    "requires": []
-  },
+  "id": "castle-Falkerstein",
+  "title": "castle-Falkerstein - Português (Brasil)",
+  "description": "",
+  "version": "3.2.1",
   "authors": [
     {
       "name": "Rernus",
-      "url": "",
-      "flags": {}
+      "url": ""
     }
   ],
-  "esmodules": [],
+  "compatibility": {
+    "minimum": 11,
+    "verified": "11"
+  },
+  "esmodules": ["babele-register.js"],
+  "url": "https://github.com/rernus/castle-Falkerstein-pt-br",
+  "manifest": "https://raw.githubusercontent.com/rernus/castle-Falkerstein-pt-br/refs/heads/main/module.json",
+  "download": "https://github.com/rernus/castle-Falkerstein-pt-br/archive/refs/heads/main.zip",
   "languages": [
     {
       "lang": "pt-BR",
       "name": "Português (Brasil)",
-      "path": "lang/pt-BR.json"
+      "path": "pt-br.json"
     }
   ],
-  "url": "https://github.com/rernus/castle-Falkerstein-pt-br",
-  "manifest": "https://raw.githubusercontent.com/rernus/castle-Falkerstein-pt-br/refs/heads/main/module.json",
-  "download": "https://github.com/rernus/castle-Falkerstein-pt-br/archive/refs/heads/main.zip"
+  "dependencies": [
+    {
+      "name": "babele",
+      "manifest": "https://gitlab.com/riccisi/foundryvtt-babele/raw/master/module/module.json"
+    }
+  ],
+  "relationships": {
+    "requires": [
+      {
+        "id": "babele",
+        "type": "module",
+        "manifest": "https://gitlab.com/riccisi/foundryvtt-babele/raw/master/module/module.json"
+      }
+    ],
+    "systems": [
+      {
+        "id": "castle-Falkerstein"
+      }
+    ]
+  }
 }
